@@ -1,4 +1,6 @@
-### Hola soy Cinta!🤘
+###  ![bas36px](https://user-images.githubusercontent.com/71487857/183286002-82d5a338-5482-418d-9959-c0baa7c7e5cb.png) Hola soy Cinta!
+
+
 
 <!--
 **Cinta-tafur/Cinta-tafur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
