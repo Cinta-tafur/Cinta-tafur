@@ -6,7 +6,7 @@
 
 👩‍💻Tecnologías
 
-![tecno-Banner5](https://user-images.githubusercontent.com/71487857/183284875-ce088888-6acb-44d9-863d-a8abeef2debe.png)
+![Banner-blancoFodo-600px](https://user-images.githubusercontent.com/71487857/183285387-9cfdced6-9181-452a-8984-4f47a620b7fc.png)
 
 🎈 Dando un cambio a mi vida y reinventandome.
 
