@@ -4,6 +4,10 @@
 **Cinta-tafur/Cinta-tafur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ![cabeceraGH-800px](https://user-images.githubusercontent.com/71487857/183280632-a82df875-ebd3-4afe-896a-b22a657cdbf6.png)
 
+👩‍💻Tecnologías
+
+![tecno-Banner5](https://user-images.githubusercontent.com/71487857/183284875-ce088888-6acb-44d9-863d-a8abeef2debe.png)
+
 🎈 Dando un cambio a mi vida y reinventandome.
 
 - 🏁 Buscando trabajo como desarrolladora web frontend
