@@ -21,13 +21,13 @@
 ✨ Donde encontrarme
 
   ![LIN](https://user-images.githubusercontent.com/71487857/183405023-cd618805-ded5-477c-ad77-40ac82def271.png)
-  [LinkedIn](https://www.linkedin.com/in/cinta-tafur-cerrej%C3%B3n-a75a2b1a5/)
+   [LinkedIn](https://www.linkedin.com/in/cinta-tafur-cerrej%C3%B3n-a75a2b1a5/)
   
   ![instagram36](https://user-images.githubusercontent.com/71487857/183402748-73153f13-c63c-4df9-979c-eaef8989ca5f.png)
-  [Instagram](https://www.instagram.com/cintutu/)
+   [Instagram](https://www.instagram.com/cintutu/)
   
  ![ico-Docker](https://user-images.githubusercontent.com/71487857/183404465-a01123c5-03b1-403a-b942-0504a634121e.png)
-  [Dockerhub](https://hub.docker.com/u/cintatutu)
+ [Dockerhub](https://hub.docker.com/u/cintatutu)
 
 💥 Aficiones
 
