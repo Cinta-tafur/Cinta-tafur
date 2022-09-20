@@ -22,7 +22,6 @@
 
 ## ✨ Donde encontrarme
 
-```
   ![LIN](https://user-images.githubusercontent.com/71487857/183405023-cd618805-ded5-477c-ad77-40ac82def271.png)
    [LinkedIn](https://www.linkedin.com/in/cinta-tafur-cerrej%C3%B3n-a75a2b1a5/)
   
@@ -31,7 +30,7 @@
   
  ![ico-Docker](https://user-images.githubusercontent.com/71487857/183404465-a01123c5-03b1-403a-b942-0504a634121e.png)
  [Dockerhub](https://hub.docker.com/u/cintatutu)
-```
+
 
 ## 💥 Aficiones
 
