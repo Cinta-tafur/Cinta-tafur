@@ -10,6 +10,7 @@
 
 ![Banner-blancoFodo-600px](https://user-images.githubusercontent.com/71487857/183285387-9cfdced6-9181-452a-8984-4f47a620b7fc.png)
 
+```
 🎈 Dando un cambio a mi vida y reinventandome.
 
 - 🏁 Buscando trabajo como desarrolladora web frontend
@@ -17,6 +18,7 @@
 - 🎓 Estudié ciclo formativo de grado superior, Desarrollo de aplicaciones Web.
 - 👯 Busco colaborar principalmente Frontend
 - 🖌️ Empecé a estudiar HTML, CSS, SASS, Javascript y en camino Angular.
+```
 
 ✨ Donde encontrarme
 
