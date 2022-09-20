@@ -28,7 +28,7 @@
 - ✈️ Viajar
 - 👨🏻‍🍳 Cocinar
 - 🤿 Buceo
-- ⛸ Patinar
+- ⛸  Patinar
 - 🎶 Bailar/cantar(cuando estoy solita ...) 
 - 🎥 Ver pelis de todo tipo.
 - 📚 Me encanta leer
