@@ -10,9 +10,9 @@
 
 ![Banner-blancoFodo-600px](https://user-images.githubusercontent.com/71487857/183285387-9cfdced6-9181-452a-8984-4f47a620b7fc.png)
 
-### 🎈Dando un cambio a mi vida y reinventandome.
-```
+### 🎈Dando un cambio a mi vida y reinventandome
 
+```
 - 🏁 Buscando trabajo como desarrolladora web frontend
 - 💬 Actualmente he finalizado un Bootcamp como Desarrollador Full Stack en CampusDual .
 - 🎓 Estudié ciclo formativo de grado superior, Desarrollo de aplicaciones Web.
@@ -20,8 +20,9 @@
 - 🖌️ Empecé a estudiar HTML, CSS, SASS, Javascript y en camino Angular.
 ```
 
-✨ Donde encontrarme
+## ✨ Donde encontrarme
 
+```
   ![LIN](https://user-images.githubusercontent.com/71487857/183405023-cd618805-ded5-477c-ad77-40ac82def271.png)
    [LinkedIn](https://www.linkedin.com/in/cinta-tafur-cerrej%C3%B3n-a75a2b1a5/)
   
@@ -30,15 +31,18 @@
   
  ![ico-Docker](https://user-images.githubusercontent.com/71487857/183404465-a01123c5-03b1-403a-b942-0504a634121e.png)
  [Dockerhub](https://hub.docker.com/u/cintatutu)
+```
 
-💥 Aficiones
+## 💥 Aficiones
 
+```
 - ⛺ Montañismo/Senderismo
 - ⛷  Snowboard
 - ✈️ Viajar
 - 👨🏻‍🍳 Cocinar
 - 🤿 Buceo
+- ⛸ Patinar
 - 🎶 Bailar/cantar(cuando estoy solita ...) 
 - 🎥 Ver pelis de todo tipo.
 - 📚 Me encanta leer
-
+```
